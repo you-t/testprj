@@ -1,2 +1,2 @@
 # testprj
-test project
+test project （これはテストプロジェクトです）
